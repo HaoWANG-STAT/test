@@ -1,5 +1,3 @@
-
-#'
 #' @title
 #' Get Simulated Two Arm Means
 #'
